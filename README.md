@@ -5,11 +5,11 @@ This project demonstrates a process for generating text files, modifying their c
 The code is written in Python and utilizes various libraries such as os, re, random, csv, glob, and pandas.
 
 ## Features
-Text File Generation: Automatically creates 10 text files, each with a unique ID and space reserved for a name.
-Name Modification: Inserts randomly chosen symbols at random positions within a given name and writes the modified name into the text files.
-Text Cleaning: Removes specific punctuation marks from the content of the text files.
-Conversion to CSV: Converts the cleaned text files into CSV format.
-CSV Merging: Merges all individual CSV files into a single consolidated CSV file.
+* Text File Generation: Automatically creates 10 text files, each with a unique ID and space reserved for a name.
+* Name Modification: Inserts randomly chosen symbols at random positions within a given name and writes the modified name into the text files.
+* Text Cleaning: Removes specific punctuation marks from the content of the text files.
+* Conversion to CSV: Converts the cleaned text files into CSV format.
+* CSV Merging: Merges all individual CSV files into a single consolidated CSV file.
 
 ## Project Structure
 10Files Folder: Contains the generated text files, cleaned text files, and the final CSV files.
